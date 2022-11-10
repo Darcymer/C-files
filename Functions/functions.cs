@@ -1,6 +1,8 @@
-namespace selector4testers
+// In this tutorial, we will be teaching you everything you need to know about functions In C#.
+
+namespace functions
 {
-    class selector4testers
+    class functions
     {
         static void Main(string[] args)
         {
