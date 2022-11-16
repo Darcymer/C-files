@@ -1,6 +1,6 @@
 # Overview
 
-This is a file to showcase things that i have learned about C# and how each area of C# works for me.I made 3 files for C#, one to learn the basic syntax, one to learn about loops, and examples of how loops work in C#.The Purpose of this code is to demonstrate my ability to break down code and explain it to myself and others that read it.
+This is a file to showcase things that i have learned about C# and how each area of C# works for me. I made 3 files for C#, one to learn the basic syntax, one to learn about loops, and examples of how loops work in C#.The Purpose of this code is to demonstrate my ability to break down code and explain it to myself and others that read it.
 
 
 [Software Demo Video](http://youtube.link.goes.here)
