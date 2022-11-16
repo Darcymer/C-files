@@ -36,7 +36,5 @@ namespace numguesser
             while (winner == false);
 
         }
-
-
     }
 }
